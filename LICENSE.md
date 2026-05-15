@@ -1,4 +1,4 @@
-# 
+# advanced Token Sniper for birdeye sniper bot | snipe-list-management & multi-chain-support is the best birdeye sniper bot, featuring snipe-list-management and multi-chain-support.
 
 
 
